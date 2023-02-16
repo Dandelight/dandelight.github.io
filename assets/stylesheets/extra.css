@@ -1,0 +1,11 @@
+:root {
+  --md-primary-fg-color: #ffab8f;
+  --md-primary-fg-color--light: #ffc9b8;
+  --md-primary-fg-color--dark: rgb(165, 70, 39);
+}
+
+/*
+html {
+  filter: grayscale(100%);
+}
+*/
