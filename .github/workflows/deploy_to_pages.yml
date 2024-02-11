@@ -31,4 +31,4 @@ jobs:
           # Artifact name
           # Path of the directory containing the static assets.
           path: site/
-      - uses: actions/deploy-pages@v2.0.4
+      - uses: actions/deploy-pages@v4.0.4
