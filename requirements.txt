@@ -27,5 +27,5 @@ requests==2.31.0
 six==1.16.0
 smmap==5.0.0
 urllib3==2.0.4
-watchdog==3.0.0
+watchdog==4.0.0
 cos-python-sdk-v5
