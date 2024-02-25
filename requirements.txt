@@ -14,7 +14,7 @@ mkdocs==1.5.2
 mkdocs-git-revision-date-plugin==0.3.2
 mkdocs-material==9.2.7
 mkdocs-material-extensions==1.1.1
-mkdocs-callouts==1.9.0
+mkdocs-callouts==1.13.0
 # mkdocs-obsidian-support-plugin==0.6.1 # Unstable.
 packaging==23.1
 pymdown-extensions==10.3
